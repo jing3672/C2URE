@@ -1,0 +1,189 @@
+{
+  "extracted_core_definitions": [
+    {
+      "name": "train_node_model",
+      "source_start_line": 165,
+      "sha256": "c7bfd6eb2e78e3590bb724f3cd5c6e2897d872728ed9cd0b1df5976f82db6c2a"
+    },
+    {
+      "name": "_local_class_weights",
+      "source_start_line": 220,
+      "sha256": "f8bbbe81f585be3992c5e059d19ee9f0f0a57cb78f5bb4adfd03b60b990f85a0"
+    },
+    {
+      "name": "_class_weights_from_counts",
+      "source_start_line": 228,
+      "sha256": "fa910c3e5a05f63fa973f5518819824c5432bb1990d6ec32f2a20d4acc7cfcf4"
+    },
+    {
+      "name": "_trusted_hidden_prototypes",
+      "source_start_line": 239,
+      "sha256": "c96384211be61b6bee7c5473dd73e925b93a09a01290be746abcfb5edd6be341"
+    },
+    {
+      "name": "train_trust_recovery_local",
+      "source_start_line": 303,
+      "sha256": "c88d7ee45e9406f426979022b2a6bacd3e077e85dddb6df8cf0ec724cdcdff09"
+    },
+    {
+      "name": "_class_balanced_cross_entropy",
+      "source_start_line": 464,
+      "sha256": "a1aa641537fc3cb3adec4266eaa7d18e25d01e5bc6df15dcdab1ca5c75542173"
+    },
+    {
+      "name": "adaptive_server_utility_repair",
+      "source_start_line": 476,
+      "sha256": "49afc649b24659b3b000eca65002458c48652f4ab8dbac5312c2a9e6c824ee88"
+    },
+    {
+      "name": "crossfit_server_utility_repair",
+      "source_start_line": 657,
+      "sha256": "65ebfc14c27368fd8b09702426c66bb330ce8b8ffb138e855fe25b9d391df4e8"
+    },
+    {
+      "name": "_head_repair_metrics",
+      "source_start_line": 874,
+      "sha256": "a06ed58a3c1a643eff05074d95a8a85aa85eb8ca359399d58747b5de0a26aa1a"
+    },
+    {
+      "name": "_head_repair_world",
+      "source_start_line": 896,
+      "sha256": "3f387f516beab465e0111f6b68b023022ab30638f1806d7648f499032845717a"
+    },
+    {
+      "name": "_head_repair_sensitivity",
+      "source_start_line": 910,
+      "sha256": "de3359c25eeb2dab854dcceaadbec97c0db66d3f367f890ef3603a39f11c6313"
+    },
+    {
+      "name": "weighted_average_models",
+      "source_start_line": 1798,
+      "sha256": "431b5cd972f59804da7a8c9822c2e29e5ac2d3fae12a3862dd8d90fbbdb1b665"
+    },
+    {
+      "name": "_model_update_vector",
+      "source_start_line": 1817,
+      "sha256": "269fd93b00dabf36f19a6c11e699f24b44ea12c8aa25e1adb436ba54e7c3dc7c"
+    },
+    {
+      "name": "_model_from_update_vector",
+      "source_start_line": 1828,
+      "sha256": "261088da2861a114a64695cb6950d96030979a09458c1bfc6b9ee89c65682d2a"
+    },
+    {
+      "name": "_model_from_group_doses",
+      "source_start_line": 1844,
+      "sha256": "575cda251c5be0a6c36fb2ff363cd57bd5c8d3bc9adc9fb700937471aea5e473"
+    },
+    {
+      "name": "causal_parameter_path_repair",
+      "source_start_line": 1866,
+      "sha256": "6b45db24e69201448bdce7dc581165db483ed3a6187f69d0a87f07bab6301720"
+    },
+    {
+      "name": "causal_trigger_path_block",
+      "source_start_line": 1955,
+      "sha256": "bd2c47a9c9a01beee4b7622c53721442586753a9fad4df114506d67547039664"
+    },
+    {
+      "name": "restore_invariant_private_amplitude",
+      "source_start_line": 2049,
+      "sha256": "0abb616bcd14443cfb930f6f054d55b5caa803253937bc2f601bd1e0f77e8fd7"
+    },
+    {
+      "name": "_row_subspace_basis",
+      "source_start_line": 2128,
+      "sha256": "db2f025fdd1227da94fdc6cbfbb10ccdc4e33cc6e2f0a3e439b1d1bcdc759035"
+    },
+    {
+      "name": "_project_off_basis",
+      "source_start_line": 2150,
+      "sha256": "bf9bf7700459ed10ffed62efd3900114290a93206e3e8af4660393a746eb95f6"
+    },
+    {
+      "name": "_probe_utility_basis",
+      "source_start_line": 2156,
+      "sha256": "fef2d1371464535c45d8c57b9b1c10eac94a65f3fb74e23d4df12fe172cc4d73"
+    },
+    {
+      "name": "class_semantic_update_filter",
+      "source_start_line": 2213,
+      "sha256": "b04028dbcbdd993de66e7aa121f1cb5e4a89d3ebcb62cefa1afdd504e2efe892"
+    },
+    {
+      "name": "add_nonrecursive_semantic_adapter",
+      "source_start_line": 2430,
+      "sha256": "cf520be5c58bcfdeb781a95474368001ea0df15a353b406e794f01721ff29d19"
+    },
+    {
+      "name": "causal_interaction_subspace_repair",
+      "source_start_line": 2537,
+      "sha256": "64e97dde55b0b286c831a39f7f06004533f341589a898e5867d8e5f76d33e9cc"
+    },
+    {
+      "name": "_affine_subspace",
+      "source_start_line": 2703,
+      "sha256": "486413539f7f7b91d091a158d5fdcd0a4dfa77806895b55d32d019e7a5a06b27"
+    },
+    {
+      "name": "_subspace_distance",
+      "source_start_line": 2713,
+      "sha256": "c428a5118e05378ecef79573d082f75a0101e9639b16941700b089043b2ab422"
+    },
+    {
+      "name": "causal_mechanism_subspace_repair",
+      "source_start_line": 2721,
+      "sha256": "c862218b70ad86523722807c63413f4a08e08533c1a75408026a814a4d822c8f"
+    },
+    {
+      "name": "causal_transfer_weight_multipliers",
+      "source_start_line": 2892,
+      "sha256": "5ec588fc6f674c91356e29fb6093d81f3361a5366fdd1b9c9aa84b7b4d883996"
+    },
+    {
+      "name": "_restore_bounded_classifier_head",
+      "source_start_line": 3009,
+      "sha256": "51881315265708d5a9309de831acd38693cdc51903dcc75b9d6bc429bfb342ab"
+    },
+    {
+      "name": "_blend_invariant_self_residual",
+      "source_start_line": 3080,
+      "sha256": "98715871664403ec9d6b4056300ac762fa7e7fb31da994534278da7306557e5a"
+    },
+    {
+      "name": "local_causal_energy_aggregate",
+      "source_start_line": 3111,
+      "sha256": "7692b1feafdd239d8989521f464025982d754102016c18799d9c7093ff5c7e96"
+    },
+    {
+      "name": "LearnedGraphInterventionPolicy",
+      "source_start_line": 4789,
+      "sha256": "5b5c6b8f237f338457188f1810b29cd3f6a3eaf11c5b35421a778a72cc5613a9"
+    },
+    {
+      "name": "contrastive_interventional_shadow_train",
+      "source_start_line": 4820,
+      "sha256": "95e12627ff41d7cc8f9936b5ab51971502e367eec4a549e42dc91d4435cdf962"
+    },
+    {
+      "name": "train_stable_causal_message_gate",
+      "source_start_line": 5055,
+      "sha256": "6759af928e92aff30efe3e95a0514a9c376d540c2c1fb94a9ab415e56f285ebf"
+    },
+    {
+      "name": "NodeClient",
+      "source_start_line": 5943,
+      "sha256": "fd7880d9af1c2e2c863ce18595347549fa27200597f9090acace45e6ce54e243"
+    }
+  ],
+  "copied_files": [
+    {
+      "path": "local_causal_energy.py",
+      "sha256": "990d37827177872535e3d7fa722df5cb4f0db93f32e81f80ab2b3468a89da43b"
+    },
+    {
+      "path": "models_node.py",
+      "sha256": "1557f94f9ae78f14e646db64731442bc3434078d467b157a6b81c835145e0004"
+    }
+  ]
+}
